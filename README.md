@@ -1,4 +1,4 @@
-# headless-ui-dialog-centering reproduction [(view live)](https://domdomegg.github.io/headless-ui-dialog-centering/)
+# headless-ui-dialog-centering reproduction [(view live)](https://adamjones.me/headless-ui-dialog-centering/)
 
 | With scrollbar | Without scrollbar |
 | - | - |
